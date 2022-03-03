@@ -1,3 +1,19 @@
   a {
    color:green;
   }
+body {
+    display: flex;
+  }
+main {
+    display: flex;
+  flex-direction: column;
+  flex: auto;
+  }
+  aside {
+    display: flex;
+     flex: 1;
+  } 
+ article {
+    display: flex;
+     flex:3 ;
+  } 
