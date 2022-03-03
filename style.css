@@ -15,6 +15,6 @@ main {
  article {
      flex:3 ;
   } 
-img {
-  <div class="small"></div> ;
-  } 
+
+img[class~="small"] {undefined
+}
