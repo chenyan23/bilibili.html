@@ -16,5 +16,6 @@ main {
      flex:3 ;
   } 
 img {
-  attribute：class="small" ;
+  attribute：class;
+  class=small;
   } 
