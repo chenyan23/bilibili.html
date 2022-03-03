@@ -16,5 +16,6 @@ main {
      flex:3 ;
   } 
 
-img {[class~="small"];
+img {（attribute）：class="small";
+  id="smart-image";
 }
