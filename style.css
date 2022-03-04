@@ -1,6 +1,9 @@
   a {
    color:green;
   }
+h {
+   color:blue;
+  }
 body {
     display: flex;
   flex-direction: column;
