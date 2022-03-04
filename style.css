@@ -8,22 +8,22 @@ body {
     display: flex;
   flex-direction: column;
   border-width: 1px;
-    border-color: red;
+    border-color:red;
   }
 main {
     display: flex;
   flex: auto;
   border-width: 1px;
-    border-color: green;
+    border-color:green;
   }
   aside {
      flex: 1;
     border-width: 1px;
-    border-color: blue;
+    border-color:blue;
   } 
  article {
      flex:3 ;
    border-width: 1px;
-    border-color: red;
+    border-color:red;
   } 
 
