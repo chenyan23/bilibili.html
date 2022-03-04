@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 targetImage.addEventListener("click", function() {
    if (alert("点击了图片")){
       targetImage.classList.remove("small");
-   } 
+   }else {
+      }
 }); 
 });
