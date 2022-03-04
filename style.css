@@ -1,5 +1,11 @@
-  a,h {
+  a,h1 {
    color:green;
+  }
+h2 {
+   color:blue;
+  }
+h3 {
+   color:red;
   }
 body {
     display: flex;
