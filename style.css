@@ -1,8 +1,5 @@
-  a {
+  a,h {
    color:green;
-  }
-h {
-   color:blue;
   }
 body {
     display: flex;
