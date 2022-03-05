@@ -3,4 +3,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 targetImage.addEventListener("click", function() {
   targetImage.classList.remove("small"); 
 }); 
+   let targetImage = document.querySelector("#short-image");
+targetImage.addEventListener("click", function() {
+  targetImage.classList.remove("small"); 
+});  
 });
