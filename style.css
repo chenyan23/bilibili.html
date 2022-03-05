@@ -13,18 +13,18 @@ body{
   border-width: 10px;
     border-color:red;
   }
-#main {
+main {
     display: flex;
   flex: auto;
   border-width: 10px;
     border-color:green;
   }
-  #aside {
+  aside {
      flex: 1;
     border-width: 10px;
     border-color:blue;
   } 
- #article {
+ article {
      flex:3 ;
    border-width: 10px;
     border-color:red;
