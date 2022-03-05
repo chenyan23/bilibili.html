@@ -10,14 +10,11 @@ h3 {
 body {
     display: flex;
   flex-direction: column;
-  border-width: 3px;
-    border-color:red;
+ 
   }
 main {
     display: flex;
   flex: auto;
-  border-width: 3px;
-    border-color:green;
   }
   aside {
      flex: 1;
