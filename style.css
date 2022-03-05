@@ -19,11 +19,11 @@ main {
   aside {
      flex: 1;
     border-width: 3px;
-   background-color:rgba(220,38,38,0.2);
+   background-color:orange;
   } 
  article {
      flex:3 ;
    border-width: 3px;
-    background-color:rgba(100,38,150,0.4);
+    background-color:yellow;
   } 
 
