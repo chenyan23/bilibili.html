@@ -19,7 +19,7 @@ main {
   aside {
      flex: 1;
     border-width: 3px;
-   background-color:orange;  
+   background-color:red;  
   } 
  article {
      flex:3 ;
