@@ -25,6 +25,26 @@
          <li>
             <a href="  https://b23.tv/NWw4Qa3">最强NBA詹姆斯长篇集锦</a>
          </li>
+         <li>
+           <div id="main">
+<h4>评论区</h4><hr>
+<textarea id="typing">输入文字</textarea>
+<button id="btn">发送评论</button>
+<div id="commend"></div>
+</div>
+         </li>
+       
+            <script>
+document.getElementById("btn").onclick=function(){send()};
+function send(){
+var g=new Date();
+var value= document.getElementById("typing").value;
+var p= document.createElement("p");
+p.innerHTML="用户："+value+'<hr>'+g.toUTCString();
+document.getElementById("commend").prepend(p);
+}
+</script>
+        
      </ul>
      </aside>
         <article>
